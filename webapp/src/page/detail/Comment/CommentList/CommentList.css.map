@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,aAAc,CACb,UAAU,CAAE,0BAA0B",
+"sources": ["CommentList.scss"],
+"names": [],
+"file": "CommentList.css"
+}

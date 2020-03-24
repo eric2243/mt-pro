@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEC,iBAAM,CACL,KAAK,CAAE,YAAc,CACrB,MAAM,CAAE,YAAc,CACtB,KAAK,CAAE,IAAI,CACX,eAAe,CAAE,KAAK,CAEvB,qBAAU,CACT,gBAAgB,CAAE,yBAA2B,CAE9C,qBAAU,CACT,gBAAgB,CAAE,yBAA2B,CAE9C,qBAAU,CACT,gBAAgB,CAAE,0BAA4B",
+"sources": ["StarScore.scss"],
+"names": [],
+"file": "StarScore.css"
+}

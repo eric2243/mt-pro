@@ -1,0 +1,16 @@
+{
+  "presets": [["@babel/preset-env", 
+{ "targets": { "browsers": [ "> 1%", "last 5 versions", "ie >= 8" ] } } ],
+"@babel/preset-react"],
+"plugins": [ 
+	    "@babel/plugin-transform-modules-commonjs",
+	    ["@babel/plugin-transform-runtime", 
+	    {
+		    "helpers": false,
+		    "regenerator": true,
+		    "absoluteRuntime": false,
+		    "corejs": false,
+		    "useESModules": false
+	    }]
+	     ]
+}
