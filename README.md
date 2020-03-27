@@ -22,4 +22,4 @@ npm run start
 ```
 npm run build
 ```
-*启动build之后，项目打包过后的文件会自动复制到waimaiServer的public文件下*
+*启动build之后，项目打包过后的文件会自动复制到meituanServer的public文件下*
